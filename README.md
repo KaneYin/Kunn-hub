@@ -14,7 +14,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunn-hub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
+This can be used as a test in profile and also as a test in HTML.
 
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=kunn-hub" />
-</div>
+-->
+
